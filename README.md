@@ -1,0 +1,9 @@
+# Totoware
+GROTFL Get rid of the fuckin' lawyers
+
+Everyone knows about Rodney Shakespeare, right? ................ 
+You've probably benefited from Rodney even though you likely don't not know him by name.  He invented the fishing rod, among many, many other things that you probably don't associate with him.  He had a little brother, Billy.  Very entrepreneurial.  Fast talker.  Billy was better known than Rodney.  Both Rodney and Billy were blunt - very much to the point.  Rodney, though, was much of the creative force behind his brother and that whole era, several hundred years ago. 
+
+One day, Rodney was having an especially difficult time with patent lawyers about his latest inventions  in cryogenics.  He muttered that, after he got his invention working, the first thing he'd do is chill all the lawyers.  Little brother Billy was hanging around, with his hotheaded penchant for overstated ad copy.  Rodney knew there would come a day when communication, information distribution, and collaboration would make a great many of the lawyers obsolete, as the law graduated from turbidity and illogical bilge to numerical precision.  Rodney - a non-violent type - wanted to put the lawyers in suspension (and cryogenics seemed like the ticket) until his "hub" technology panned out.  Rodney adopted his wife's phrase to Ophelia - to get thee to the hubbory - and developed an information collaboration control system he called, GetHub.  A few hundred years later, the cowboys in the American West - who, most people are not aware, were early software engineers on the side - pronounced it GitHub little dogie, as they herded cattle into pens in a hub and spoke topology.  After my usual painstaking historical research, I found Rodney's original GetHub account: rodneyshakespeare.  Rodney's Totoware repository is there.  You can check it out.    
+
+- john4midwest.com
